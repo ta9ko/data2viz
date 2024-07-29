@@ -1,0 +1,7 @@
+
+
+```ini
+include README.md
+include requirements.txt
+include setup.cfg
+include data2viz/*.py
